@@ -5,7 +5,6 @@ channels:
   - bioconda
   - pytorch
   - nvidia
-  - biocore
   - conda-forge
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
@@ -21,7 +20,6 @@ dependencies:
   - attrs=23.2.0=pyh71513ae_0
   - blas=2.121=mkl
   - blas-devel=3.9.0=21_linux64_mkl
-  - blast-legacy=2.2.26=2
   - blinker=1.7.0=pyhd8ed1ab_0
   - brotli=1.1.0=hd590300_1
   - brotli-bin=1.1.0=hd590300_1
@@ -215,7 +213,6 @@ dependencies:
   - pixman=0.43.2=h59595ed_0
   - ply=3.11=py_1
   - protobuf=4.21.12=py310heca2aa9_0
-  - psipred=4.01=1
   - psutil=5.9.8=py310h2372a71_0
   - pthread-stubs=0.4=h36c2ea0_1001
   - pulseaudio=16.1=hcb278e6_3
